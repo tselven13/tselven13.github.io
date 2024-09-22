@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "title":"How to setup DNS",
+        "content":"<h1>How to setup DNS</h1>",
+        "img":"/images/blog/blog-01.jpg",
+        "created":"20-09-2024"
+    },
+    {
+        "id":2,
+        "title":"Create To-Do App in Laravel",
+        "content":"<h1>Create To-Do App in Laravel</h1>",
+        "img":"/images/blog/blog-02.jpg",
+        "created":"21-09-2024"
+    },
+    {
+        "id":2,
+        "title":"Create REST API in Laravel",
+        "content":"<h1>Create To-Do App in Laravel</h1>",
+        "img":"/images/blog/blog-03.jpg",
+        "created":"21-09-2024"
+    }
+]
