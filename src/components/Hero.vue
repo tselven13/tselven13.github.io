@@ -36,7 +36,7 @@
                                         <div class="social-share-inner-left">
                                             <span class="title">find with me</span>
                                             <ul class="social-share d-flex liststyle">
-                                                <li class="facebook"><a href="https://web.facebook.com/thamil.selven.129" target="_blank"><i class="bi bi-facebook"></i></a>
+                                                <li class="facebook"><a href="https://web.facebook.com/thamil.selven.129" target="_blank"><i data-feather="facebook"></i></a>
                                                 </li>
                                                 <li class="instagram"><a href="https://www.instagram.com/sp.thamilselven/" target="_blank"><i data-feather="instagram"></i></a>
                                                 </li>

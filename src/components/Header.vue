@@ -32,7 +32,7 @@
 
                     <!-- Start Header Right -->
                     <div class="header-right">
-                        <router-link class="nav-link rn-btn" to="/resu"><span>BUY NOW</span></router-link>
+                        <a class="rn-btn" href="https://github.com/tselven13" target="_blank"><i data-feather="github" class="mx-2"></i><span>FOLLOW</span></a>
                         <div class="hamberger-menu d-block d-xl-none">
                             <i id="menuBtn" class="feather-menu humberger-menu"></i>
                         </div>
