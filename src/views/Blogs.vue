@@ -17,9 +17,9 @@
                         <div class="rn-blog" data-bs-toggle="modal" data-bs-target="#exampleModalCenters">
                             <div class="inner">
                                 <div class="thumbnail">
-                                    <a href="javascript:void(0)">
+                                    <router-link :to="`/post/${post.slug}`">
                                         <img :src="post.img" alt="Personal Portfolio Images">
-                                    </a>
+                                    </router-link>
                                 </div>
                                 <div class="content">
                                     <div class="category-info">
@@ -30,8 +30,8 @@
                                             <span><i class="feather-clock"></i> 2 min read</span>
                                         </div>
                                     </div>
-                                    <h4 class="title"><a href="javascript:void(0)">{{ post.title }}
-                                    </a></h4>
+                                    <h4 class="title"><router-link :to="`/post/${post.slug}`">{{ post.title }}</router-link>
+                                    </h4>
                                 </div>
                             </div>
                         </div>

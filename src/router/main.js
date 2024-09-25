@@ -7,6 +7,7 @@ import Contact from '../components/Contact.vue';
 import Pricing from '../components/Pricing.vue';
 import Resume from '../components/Resume.vue';
 import Skills from '../components/Skills.vue';
+import Post from '../views/Post.vue';
 
 const routes = [
     {
@@ -20,9 +21,10 @@ const routes = [
         component: Blogs
     },
     {
-        path: '/:pathMatch(.*)*', // Catch-all for undefined routes
-        name: 'NotFound',
-        component: NotFound
+        path:'/post/:slug',
+        name:'Post',
+        component: Post,
+        props:true
     },
     {
         path:'/portfolio',
@@ -48,6 +50,11 @@ const routes = [
         path: '/skills',
         name: 'Skills',
         component: Skills
+    },
+    {
+        path: '/:pathMatch(.*)*', // Catch-all for undefined routes
+        name: 'NotFound',
+        component: NotFound
     }
 ];
 
