@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center">
-                            <span class="subtitle">4+ Years of Experience</span>
+                        
                             <h2 class="title">My Resume</h2>
                         </div>
                     </div>
@@ -51,8 +51,8 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4> Examples Of Personal Portfolio</h4>
-                                                                    <span>College of Studies (2000 - 2002)</span>
+                                                                    <h4>HND in ICT</h4>
+                                                                    <span>University College of Jaffna (2000 - 2002)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
                                                                     <span>4.50/5</span>
@@ -60,26 +60,6 @@
                                                             </div>
                                                             <p class="description">Maecenas finibus nec sem ut
                                                                 imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
-                                                    <!-- Start Single List  -->
-                                                    <div class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>Tips For Personal Portfolio</h4>
-                                                                    <span>University of Studies (1997 - 2001)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.80/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description"> If you are going to use a passage.
-                                                                Ut tincidunt est ac dolor aliquam sodales.
                                                                 Phasellus sed mauris hendrerit, laoreet sem in, lobortis
                                                                 mauris hendrerit ante.</p>
                                                         </div>
@@ -94,7 +74,7 @@
                                         <!-- Start Skill List Area 2nd  -->
                                         <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
                                             <div class="content">
-                                                <span class="subtitle">2007 - 2010</span>
+                                                <span class="subtitle">2024 Feb - Present</span>
                                                 <h4 class="maintitle">Job Experience</h4>
                                                 <div class="experience-list">
 
@@ -103,62 +83,20 @@
                                                         <div class="inner">
                                                             <div class="heading">
                                                                 <div class="title">
-                                                                    <h4>Diploma in Web Development</h4>
-                                                                    <span>BSE In CSE (2004 - 2008)</span>
+                                                                    <h4>Intern Web Developer</h4>
+                                                                    <span>WEBbuilders.lk (2004 - 2008)</span>
                                                                 </div>
                                                                 <div class="date-of-time">
                                                                     <span>4.70/5</span>
                                                                 </div>
                                                             </div>
-                                                            <p class="description">Contrary to popular belief. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
+                                                            <p class="description">I am currently working on
+                                                                WEBbuilders.lk as a Intern Web Developer, who develop 
+                                                                Laravel Websites, and Flutter based Apps.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- End Single List  -->
-
-                                                    <!-- Start Single List  -->
-                                                    <div class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>The Personal Portfolio Mystery</h4>
-                                                                    <span>Job at Rainbow-Themes (2008 - 2016)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>4.95/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description">Generate Lorem Ipsum which looks. Ut
-                                                                tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
-                                                    <!-- Start Single List  -->
-                                                    <div class="resume-single-list">
-                                                        <div class="inner">
-                                                            <div class="heading">
-                                                                <div class="title">
-                                                                    <h4>Diploma in Computer Science</h4>
-                                                                    <span>Works at Plugin Development (2016 -
-                                                                2020)</span>
-                                                                </div>
-                                                                <div class="date-of-time">
-                                                                    <span>5.00/5</span>
-                                                                </div>
-                                                            </div>
-                                                            <p class="description">Maecenas finibus nec sem ut
-                                                                imperdiet. Ut tincidunt est ac dolor aliquam sodales.
-                                                                Phasellus sed mauris hendrerit, laoreet sem in, lobortis
-                                                                mauris hendrerit ante.</p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- End Single List  -->
-
                                                 </div>
                                             </div>
                                         </div>

@@ -31,10 +31,10 @@
                                         <div class="progress-wrapper">
                                             <div class="content">
                                                 
-                                                <h4 class="maintitle">Design Skill</h4>
+                                                <h4 class="maintitle">Coding Skill</h4>
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">PHOTOSHOT</h6>
+                                                    <h6 class="heading heading-h6">PHP</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.5s" data-wow-delay=".3s"
@@ -47,7 +47,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">FIGMA</h6>
+                                                    <h6 class="heading heading-h6">C#</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -60,7 +60,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">ADOBE XD</h6>
+                                                    <h6 class="heading heading-h6">Python</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.7s" data-wow-delay=".5s"
@@ -73,7 +73,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">ADOBE ILLUSTRATOR</h6>
+                                                    <h6 class="heading heading-h6">OOPS Concept</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.8s" data-wow-delay=".6s"
@@ -86,13 +86,13 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">DESIGN</h6>
+                                                    <h6 class="heading heading-h6">Data Structures & Algorithms</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.9s" data-wow-delay=".7s"
                                                             role="progressbar" style="width: 90%" aria-valuenow="85"
                                                             aria-valuemin="0" aria-valuemax="100"><span
-                                                                class="percent-label">90%</span></div>
+                                                                class="percent-label">60%</span></div>
                                                     </div>
                                                 </div>
                                                 <!-- End Single Progress Charts -->
@@ -107,10 +107,10 @@
                                         <div class="progress-wrapper">
                                             <div class="content">
                                                 
-                                                <h4 class="maintitle">Development Skill</h4>
+                                                <h4 class="maintitle">Development Skills</h4>
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">HTML</h6>
+                                                    <h6 class="heading heading-h6">Laravel</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.5s" data-wow-delay=".3s"
@@ -123,7 +123,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">CSS</h6>
+                                                    <h6 class="heading heading-h6">Vue</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.6s" data-wow-delay=".4s"
@@ -136,7 +136,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">JAVASCRIPT</h6>
+                                                    <h6 class="heading heading-h6">Hosting & Server Managment</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.7s" data-wow-delay=".5s"
@@ -149,7 +149,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">SOFTWARE</h6>
+                                                    <h6 class="heading heading-h6">Flutter</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.8s" data-wow-delay=".6s"
@@ -162,7 +162,7 @@
 
                                                 <!-- Start Single Progress Charts -->
                                                 <div class="progress-charts">
-                                                    <h6 class="heading heading-h6">PLUGIN</h6>
+                                                    <h6 class="heading heading-h6">Docker</h6>
                                                     <div class="progress">
                                                         <div class="progress-bar wow fadeInLeft"
                                                             data-wow-duration="0.9s" data-wow-delay=".7s"

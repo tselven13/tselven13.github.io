@@ -23,8 +23,7 @@
                             <li class="nav-item"><router-link class="nav-link" to="/skills">Skills</router-link></li>
                             <li class="nav-item"><router-link class="nav-link" to="/portfolio">Portfolio</router-link></li>
                             <li class="nav-item"><router-link class="nav-link" to="/resume">Resume</router-link></li>
-                            <li class="nav-item"><router-link class="nav-link" to="/pricing">Pricing</router-link></li>
-                            <li class="nav-item"><router-link class="nav-link" to="/blogs">Blogs</router-link></li>
+                            <li class="nav-item"><a href="https://tselven.blogspot.com" target="_blank">Blog</a></li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
                         <!-- End Mainmenu Nav -->
@@ -32,7 +31,7 @@
 
                     <!-- Start Header Right -->
                     <div class="header-right">
-                        <a class="rn-btn" href="https://github.com/tselven13" target="_blank"><i data-feather="github" class="mx-2"></i><span>FOLLOW</span></a>
+                        <a class="rn-btn" href="https://github.com/tselven" target="_blank"><i data-feather="github" class="mx-2"></i><span>FOLLOW</span></a>
                         <div class="hamberger-menu d-block d-xl-none">
                             <i id="menuBtn" class="feather-menu humberger-menu"></i>
                         </div>

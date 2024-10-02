@@ -21,8 +21,9 @@
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">Design Cloud Solutions</a></h4>
-                                    <p class="description">I throw myself down among the tall grass by the stream as I
-                                        lie close to the earth.</p>
+                                    <p class="description">I can design and develop cloud based solutions 
+                                        for your requirments to enhance your business.
+                                    </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -39,8 +40,9 @@
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">App Development</a></h4>
-                                    <p class="description"> It uses a dictionary of over 200 Latin words, combined with
-                                        a handful of model sentence.</p>
+                                    <p class="description">I can develop Android Apps for you
+                                        to simplify the process.
+                                    </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -57,8 +59,9 @@
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">Web Development</a></h4>
-                                    <p class="description">I throw myself down among the tall grass by the stream as I
-                                        lie close to the earth.</p>
+                                    <p class="description">I can develop and maintain Web Applications.
+                                        that can boost your online presence.
+                                    </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -74,9 +77,10 @@
                                     <i data-feather="twitch"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Mobile App</a></h4>
-                                    <p class="description">There are many variations of passages of Lorem Ipsum
-                                        available, but the majority.
+                                    <h4 class="title"><a href="#">Consultancy</a></h4>
+                                    <p class="description">
+                                        I can provide consulting services for you for make your ideas into a 
+                                        valuable solutions.
                                     </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
@@ -93,9 +97,11 @@
                                     <i data-feather="wifi"></i>
                                 </div>
                                 <div class="content">
-                                    <h4 class="title"><a href="#">DevOps </a></h4>
-                                    <p class="description">always free from repetition,
-                                        injected humour, or non-characteristic words etc.</p>
+                                    <h4 class="title"><a href="#">DevOps</a></h4>
+                                    <p class="description">
+                                        I can manage DevOps process, and manage your CI/CD pipline of 
+                                        the applications.
+                                    </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -112,8 +118,9 @@
                                 </div>
                                 <div class="content">
                                     <h4 class="title"><a href="#">Server Managment</a></h4>
-                                    <p class="description"> It uses a dictionary of over 200 Latin words, combined with
-                                        a handful of model sentence.</p>
+                                    <p class="description">I can manage servers that host multiple websites 
+                                        and applications.
+                                    </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
                             </div>

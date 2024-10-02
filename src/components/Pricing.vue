@@ -31,7 +31,7 @@
                                     <div class="pricing-header">
                                         <div class="header-left">
                                             <h2 class="title">Make Your Single Page</h2>
-                                            <span>Elementor</span>
+                                            <span>Portfolio & Landing Page</span>
                                         </div>
                                         <div class="header-right">
                                             <span>$30.00</span>

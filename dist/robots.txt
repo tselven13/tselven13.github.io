@@ -1,4 +1,0 @@
-Agent:*
-Allow:*
-
-sitemap: https://tselven.com/sitemap.xml

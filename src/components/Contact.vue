@@ -24,7 +24,7 @@
                             <div class="description">
                                 <p>I am available for freelance work. Connect with me via and call in to my account.
                                 </p>
-                                <span class="phone">Phone: <a href="tel:0768337282">+94 768337282</a></span>
+                                <span class="phone">Phone: <a href="tel:0753271665">+94 753271665</a></span>
                                 <span class="mail">Email: <a href="mailto:contact@tselven.com">contact@tselven.com</a></span>
                             </div>
                             <div class="social-area">

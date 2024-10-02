@@ -17,18 +17,18 @@
                         <div class="rn-portfolio" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
                             <div class="inner">
                                 <div class="thumbnail">
-                                    <a href="https://astro.tselven.com">
+                                    <a href="https://zen.tselven.com">
                                         <img src="/images/portfolio/asp.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
                                     <div class="category-info">
                                         <div class="category-list">
-                                            <a href="https://astro.tselven.com"><b>Astro Spark</b></a>
+                                            <a href="https://zen.tselven.com"><b>Zen</b></a>
                                         </div>
                                         
                                     </div>
-                                    <h4 class="title"><a href="https://astro.tselven.com">Develop a PHP Framework for Web & API Development <i
+                                    <h4 class="title"><a href="https://zen.tselven.com">Develop a PHP Framework for Web & API Development <i
                                         class="feather-arrow-up-right"></i></a></h4>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/images/portfolio/portfolio-02.jpg" alt="Personal Portfolio Images">
+                                        <img src="/images/portfolio/asp.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -69,7 +69,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/images/portfolio/portfolio-03.jpg" alt="Personal Portfolio Images">
+                                        <img src="/images/portfolio/asp.png" alt="Personal Portfolio Images">
                                     </a>
                                 </div>
                                 <div class="content">

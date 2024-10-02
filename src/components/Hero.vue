@@ -26,8 +26,7 @@
 
                                     <div>
                                         <p class="description">
-                                            I can build & manage enterprice scale applications 
-                                            for run your business effectively.
+                                            As a freelance Laravel and Vue.js developer, I specialize in building high-performance websites and web applications tailored to your business needs. With expertise in VPS hosting, droplets, and providing consultancy on web and tech development, I ensure scalable, secure, and efficient solutions. Whether you need a robust digital platform or guidance on optimizing your tech infrastructure, I deliver results that drive growth.
                                         </p>
                                     </div>
                                 </div>
