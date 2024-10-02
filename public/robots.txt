@@ -1,4 +1,4 @@
-Agent:*
-Allow:*
+User-agent: *
+Disallow: *
 
-sitemap: https://tselven.com/sitemap.xml
+Sitemap: https://tselven.com/sitemap.xml
