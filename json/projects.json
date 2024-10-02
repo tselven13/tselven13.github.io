@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Zen",
+        "content":"Zen is a PHP framework to develop Web and APIs",
+        "img":"/images/blog/blog-01.jpg",
+        "slug":"set-dns",
+        "created":"20-09-2024"
+    },
+    {
+        "id":2,
+        "title":"AI DLL",
+        "content":"DLL developed in C# for simplify AI development",
+        "img":"/images/blog/blog-02.jpg",
+        "slug":"to-do-app-in-laravel",
+        "created":"21-09-2024"
+    },
+    {
+        "id":2,
+        "title":"Create REST API in Laravel",
+        "content":"<h1>Create To-Do App in Laravel</h1>",
+        "img":"/images/blog/blog-03.jpg",
+        "slug":"rest-api-laravel",
+        "created":"21-09-2024"
+    }
+]
