@@ -60,7 +60,7 @@
                                 <div class="content">
                                     <h4 class="title"><a href="#">Web Development</a></h4>
                                     <p class="description">I can develop and maintain Web Applications.
-                                        that can boost your online presence.
+                                        that can boost your online prsence.
                                     </p>
                                     <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                                 </div>
